@@ -1,0 +1,25 @@
+$bgcolor : #164863;
+$font_color : #9BBEC8;
+
+.body{
+    // margin: 500px auto;
+    color: $font_color;
+}
+
+.todoWrapper{
+    max-width: 500px auto;
+    padding: 18px 36px;
+    text-align: center;
+    background-color:$bgcolor ;
+    color: $font_color;
+}
+h1{
+    font-size: 40px;
+    font-weight: 600;
+}
+input{
+    padding: 10px;
+}
+button{
+    padding: 10px;
+}
